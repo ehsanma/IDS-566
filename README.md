@@ -1,4 +1,4 @@
-# IDS-566: Advanced Text Analytics for Business
+## IDS-566: Advanced Text Analytics for Business
 
 **Course:** Advanced Text Analytics for Business
 **Instructor:** Dr. Ehsan M. Ardehaly
