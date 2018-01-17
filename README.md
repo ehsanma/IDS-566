@@ -17,7 +17,7 @@
 - [Mining of Massive Datasets](http://www.mmds.org/), Jure Leskovec, Anand Rajaraman, Jeff Ullman
 
 **Grading**:
-40% - Final exam
+40% - Final exam <br>
 60% - Three assignments
 
 | **Percent** | **Grade** |
