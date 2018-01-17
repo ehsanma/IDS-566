@@ -2,7 +2,7 @@
 
 **Course:** Advanced Text Analytics for Business<br>
 **Instructor:** Dr. Ehsan M. Ardehaly <br>
-**Meetings:** 6 - 8:30 pm F <br>
+**Meetings:** 6:00 - 8:30 pm F <br>
 **E-mail:** ehsan at uic.edu <br>
 **Office Hours:** TBD <br>
 **Office:** TBD <br>
@@ -32,12 +32,12 @@
 
 |Date|Content|Slides|Notebook|
 |--|--|--|--|
-|1/19/2018|Introduction - Scientific Python| TBA | TBA |
-|1/26/2018|Tokenization, TF-IDF, Sparse Matrix| TBA | TBA |
-|2/2/2018|Supervised learning, KNN, Logistic Regression| TBA | TBA |
-|2/9/2018|Demographic classification, Senitiment Analysis| TBA | TBA |
-|2/16/2018|Word Embedding, Deep Learning| TBA | TBA |
+|1/19/2018|Introduction, Scientific Python, Numpy arrays| TBA | TBA |
+|1/26/2018|Tokenization, TF-IDF, Sparse matrix in Scipy | TBA | TBA |
+|2/2/2018|Supervised learning, KNN, Logistic Regression, Gradient Descent| TBA | TBA |
+|2/9/2018|Demographic classification, Senitiment Analysis, Confusion  matrix| TBA | TBA |
+|2/16/2018|Word Embedding, Multi Layer Perceptron (MLP), Deep Learning (LSTM) | TBA | TBA |
 |2/23/2018|Document/Word Clustering, K-Means| TBA | TBA |
-|3/2/2018|Dimensionality Reduction, LSA, PCA| TBA | TBA |
-|3/9/2018|Topic Modeling - LSA| TBA | TBA |
+|3/2/2018|Dimensionality Reduction, Latent Semantic Analysis (LSA), Singular Value Decomposition (SVD) | TBA | TBA |
+|3/9/2018|Topic Modeling - Latent Dirichlet Allocation (LDA) | TBA | TBA |
 
