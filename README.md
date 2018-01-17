@@ -12,7 +12,8 @@
 **Description**: This course will explore latest algorithms for text mining. Fundamentals of text analysis will also be covered, with an emphasis on the application of text mining in sentmient analysis and demographic classification. Topics include tokenization, supervised learning, word embedding, document clustering, dimensionality reduction, and topic modeling. Emphasis will be placed on the application of this technology for business.
 
 **Recommended books**:
-- Mining Text Data Charu C. Aggarwal and ChengXiang Zhai, Springer, 2012
+- Fundamentals of Predictive Text Mining (2nd Edition), Sholom M. Weiss, Nitin Indurkhya, Tong Zhang, 2015
+- Mining Text Data, Charu C. Aggarwal and ChengXiang Zhai, Springer, 2012
 - [Mining of Massive Datasets](http://www.mmds.org/), Jure Leskovec, Anand Rajaraman, Jeff Ullman
 
 **Grading**:
