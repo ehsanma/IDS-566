@@ -1,8 +1,8 @@
 # IDS-566: Advanced Text Analytics for Business
 
-**Course**: Advanced Text Analytics for Business
-**Instructor**: Dr. Ehsan M. Ardehaly
-**Meetings**: 6 - 8:30 pm F
+**Course:** Advanced Text Analytics for Business
+**Instructor:** Dr. Ehsan M. Ardehaly
+**Meetings:** 6 - 8:30 pm F
 
 **E-mail**: ehsan at uic.edu
 
