@@ -10,7 +10,7 @@
 
 **Description**: This course will explore latest algorithms for text mining. Fundamentals of text analysis will also be covered, with an emphasis on the application of text mining in sentmient analysis and demographic classification. Topics include tokenization, supervised learning, word embedding, document clustering, dimensionality reduction, and topic modeling. Emphasis will be placed on the application of this technology for business.
 
-*Prerequisites:** CS-572 (Data Mining or equivalent). It is recommended that you have a good working familiarity with at least one programming language (Python is recommended, while R also fine). Significant programming experience will be helpful as you can focus more on the algorithms being explored rather than the syntax of programming languages.
+**Prerequisites:** CS-572 (Data Mining or equivalent). It is recommended that you have a good working familiarity with at least one programming language (Python is recommended, while R also fine). Significant programming experience will be helpful as you can focus more on the algorithms being explored rather than the syntax of programming languages.
 Solid mathematics background is also required. Since this is a graduate-level course, you are supposed to know important concepts in calculus (e.g., derivative), probability (e.g., conditional probability), linear algebra (e.g., vector, matrix and inner product, and matrix operations). Good knowledge in mathematics will help you gain in-depth understanding of the methods discussed in the course and develop your own idea for new solutions.
 
 
