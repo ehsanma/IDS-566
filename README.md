@@ -6,7 +6,7 @@
 **E-mail:** ehsan at uic.edu <br>
 **Office Hours:** TBD <br>
 **Office:** TBD <br>
-**TA:** TBD <br>
+**TA:** Ramah Al Balawi <ralbal2@uic.edu> <br>
 
 **Description**: This course will explore latest algorithms for text mining. Fundamentals of text analysis will also be covered, with an emphasis on the application of text mining in sentmient analysis and demographic classification. Topics include tokenization, supervised learning, word embedding, document clustering, dimensionality reduction, and topic modeling. Emphasis will be placed on the application of this technology for business.
 
