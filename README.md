@@ -1,12 +1,12 @@
 ## IDS-566: Advanced Text Analytics for Business
 
-**Course:** Advanced Text Analytics for Business<br>
-**Instructor:** Dr. Ehsan M. Ardehaly <br>
-**Meetings:** 6:00 - 8:30 pm F <br>
-**E-mail:** ehsan at uic.edu <br>
-**Office Hours:** TBD <br>
-**Office:** TBD <br>
-**TA:** Ramah Al Balawi <ralbal2@uic.edu> <br>
+- **Course:** Advanced Text Analytics for Business
+- **Instructor:** Dr. Ehsan M. Ardehaly
+- **Meetings:** 6:00 - 8:30 pm F Burnham Hall 208
+- **E-mail:** ehsan at uic.edu
+- **Office Hours:** TBD
+- **Office:** TBD
+- **TA:** Ramah Al Balawi <ralbal2@uic.edu>
 
 **Description**: This course will explore latest algorithms for text mining. Fundamentals of text analysis will also be covered, with an emphasis on the application of text mining in sentmient analysis and demographic classification. Topics include tokenization, supervised learning, word embedding, document clustering, dimensionality reduction, and topic modeling. Emphasis will be placed on the application of this technology for business.
 
