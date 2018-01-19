@@ -32,6 +32,14 @@ Solid mathematics background is also required. Since this is a graduate-level co
 | 69-60       | D         |
 | < 60        | F         |
 
+**Assignment policy**
+- Please read university regulations: https://grad.uic.edu/university-regulations
+- All assignment you turn must be done by you alone.
+- The first violation will result in a failing grade for that assignment. 
+- The second will result in a failing grade for the course.
+- Late Submission Policy: 4% per hour 
+- Grade dispute: Within 7 days of the receipt of the grade
+
 **Schedule**:
 
 |Date|Content|Slides|Notebook|
