@@ -2,11 +2,12 @@
 
 - **Course:** Advanced Text Analytics for Business
 - **Instructor:** Dr. Ehsan M. Ardehaly
-- **Meetings:** 6:00 - 8:30 pm F Burnham Hall 208
+- **Meetings:** 6:00 - 8:30 pm F, Burnham Hall 208
 - **E-mail:** ehsan at uic.edu
-- **Office Hours:** UIC Business Learning Center (BLC) - L270
-- **Office:** TBD
+- **office hours:** 4:45 - 5:45 pm F, Business Learning Center (BLC) - L270
 - **TA:** Ramah Al Balawi <ralbal2@uic.edu>
+- **TS office hours:** 4:00 - 5:00 pm W, Business Learning Center (BLC) - L270
+
 
 **Description**: This course will explore latest algorithms for text mining. Fundamentals of text analysis will also be covered, with an emphasis on the application of text mining in sentmient analysis and demographic classification. Topics include tokenization, supervised learning, word embedding, document clustering, dimensionality reduction, and topic modeling. Emphasis will be placed on the application of this technology for business.
 
