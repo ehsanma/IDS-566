@@ -4,7 +4,7 @@
 - **Instructor:** Dr. Ehsan M. Ardehaly
 - **Meetings:** 6:00 - 8:30 pm F, Burnham Hall 208
 - **E-mail:** ehsan at uic.edu
-- **office hours:** 4:45 - 5:45 pm F, Business Learning Center (BLC) - L270
+- **Office hours:** 4:45 - 5:45 pm F, Business Learning Center (BLC) - L270
 - **TA:** Ramah Al Balawi <ralbal2@uic.edu>
 - **TS office hours:** 4:00 - 5:00 pm W, Business Learning Center (BLC) - L270
 
