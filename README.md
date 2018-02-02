@@ -47,9 +47,9 @@ Solid mathematics background is also required. Since this is a graduate-level co
 |--|--|--|--|
 |1/19/2018|Introduction, Scientific Python| [L01](Lecture-1/lecture-1.pdf) | [N01](Lecture-1/Lecture-1.ipynb) |
 |1/26/2018|Tokenization, TF-IDF, Sparse matrix, Sentiment Analysis-1| [L02](Lecture-2/lecture-2.pdf) | [N02](Lecture-2/Lecture-2.ipynb) |
-|2/2/2018|Supervised learning, k-NN, Naive Bayes, Logistic Regression| TBA | TBA |
+|2/2/2018|Supervised learning, k-NN, Naive Bayes, Logistic Regression| [L03](Lecture-3/lecture-3.pdf) | [N03](Lecture-3/Lecture-3.ipynb) |
 |2/6/2018|Assignment 1| -- | -- |
-|2/9/2018|Demographic classification, Senitiment Analysis-2, Confusion  matrix| TBA | TBA |
+|2/9/2018|More classification, Senitiment Analysis-2, Demographic classification| TBA | TBA |
 |2/16/2018|Word Embedding, Multi Layer Perceptron (MLP), Deep Learning (LSTM) | TBA | TBA |
 |2/23/2018|Document / word Clustering, K-Means| TBA | TBA |
 |3/2/2018|Dimensionality Reduction, Latent Semantic Analysis (LSA), Singular Value Decomposition (SVD) | TBA | TBA |
