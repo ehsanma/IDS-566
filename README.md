@@ -50,7 +50,7 @@ Solid mathematics background is also required. Since this is a graduate-level co
 |2/2/2018|Supervised learning, k-NN, Naive Bayes, Logistic Regression| [L03](Lecture-3/Lecture-3.pdf) | [N03](Lecture-3/Lecture-3.ipynb) |
 |2/6/2018|Assignment 1| -- | -- |
 |2/9/2018|No class, winter storm| -- | -- |
-|2/16/2018|More classification, Senitiment Analysis-2, Demographic classification| TBA | TBA |
+|2/16/2018|More classification, Senitiment Analysis-2, Demographic classification| [L04](Lecture-4/Lecture-4.pdf) | [N04](Lecture-4/Lecture-4.ipynb) 
 |2/23/2018|Word Embedding, Multi Layer Perceptron (MLP), Deep Learning (LSTM) | TBA | TBA |
 |3/2/2018|Document / word Clustering, K-Means| TBA | TBA |
 |3/9/2018|Dimensionality Reduction, Latent Semantic Analysis (LSA), Singular Value Decomposition (SVD) | TBA | TBA |
