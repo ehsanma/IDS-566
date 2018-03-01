@@ -53,7 +53,6 @@ Solid mathematics background is also required. Since this is a graduate-level co
 |2/16/2018|More classification, Senitiment Analysis-2, Demographic classification| [L04](Lecture-4/Lecture-4.pdf) | [N04](Lecture-4/Lecture-4.ipynb) |
 |2/23/2018|Word Embedding, Multi Layer Perceptron (MLP), Deep Learning | [L05](Lecture-5/Lecture-5.pdf) | [N05](Lecture-5/Lecture-5.ipynb)  |
 |2/25/2018|Assignment 2 due date| -- | -- |
-|3/2/2018|Document / word Clustering, K-Means| TBA | TBA |
-|3/9/2018|Dimensionality Reduction, Latent Semantic Analysis (LSA), Singular Value Decomposition (SVD) | TBA | TBA |
-|--|Topic Modeling - Latent Dirichlet Allocation (LDA) | TBA | TBA |
+|3/2/2018|Latent Semantic Analysis (LSA), Document clustering| TBA | TBA |
+|3/9/2018|Singular Value Decomposition (SVD), K-Means, Topic Modeling (LDA) | TBA | TBA |
 
