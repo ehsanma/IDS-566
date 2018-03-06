@@ -55,4 +55,7 @@ Solid mathematics background is also required. Since this is a graduate-level co
 |2/25/2018|Assignment 2 due date| -- | -- |
 |3/2/2018|Latent Semantic Analysis (LSA), Document clustering| [L06](Lecture-6/Lecture-6.pdf) | [N06](Lecture-6/Lecture-6.ipynb)  |
 |3/9/2018|Singular Value Decomposition (SVD), K-Means, Topic Modeling (LDA) | TBA | TBA |
+|3/13/2018|Assignment 3 due date | -- | -- |
+|3/16/2018|Final exam | -- | -- |
+
 
