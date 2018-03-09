@@ -54,7 +54,7 @@ Solid mathematics background is also required. Since this is a graduate-level co
 |2/23/2018|Word Embedding, Multi Layer Perceptron (MLP), Deep Learning | [L05](Lecture-5/Lecture-5.pdf) | [N05](Lecture-5/Lecture-5.ipynb)  |
 |2/25/2018|Assignment 2 due date| -- | -- |
 |3/2/2018|Latent Semantic Analysis (LSA), Document clustering| [L06](Lecture-6/Lecture-6.pdf) | [N06](Lecture-6/Lecture-6.ipynb)  |
-|3/9/2018|Singular Value Decomposition (SVD), K-Means, Topic Modeling (LDA) | TBA | TBA |
+|3/9/2018|Singular Value Decomposition (SVD), K-Means, Topic Modeling (LDA) | [L07](Lecture-7/Lecture-7.pdf) | [N07](Lecture-7/Lecture-7.ipynb)  |
 |3/13/2018|Assignment 3 due date | -- | -- |
 |3/16/2018|Final exam | -- | -- |
 
